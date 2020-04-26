@@ -1,8 +1,8 @@
   <!DOCTYPE html>
 <html>
-  <Head><title>This is Theo</title>
+  <Head> This is Theo
   </head>
   <body>
-  <p>He is a very good boy</p>
+  <p>He is a <strong> very good </strong> <em>boy</em></p>
   </body>
 </html>
